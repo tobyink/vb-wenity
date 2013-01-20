@@ -14,9 +14,11 @@
     <VerifyUploadedFiles>true</VerifyUploadedFiles>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <StartArguments>--entry --hide-text --text "Hello World"</StartArguments>
+    <StartArguments>
+    </StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <StartArguments>--entry --hide-text --text "Hello World"</StartArguments>
+    <StartArguments>
+    </StartArguments>
   </PropertyGroup>
 </Project>
