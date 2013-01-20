@@ -24,3 +24,6 @@ C:\Users\ti\Documents\Visual Studio 2005\Projects\Wenity\Wenity\obj\Release\Weni
 C:\Users\ti\Documents\Visual Studio 2005\Projects\Wenity\Wenity\obj\Release\Wenity.ListDialog.resources
 C:\Users\ti\Documents\Visual Studio 2005\Projects\Wenity\Wenity\obj\Debug\Wenity.ListDialog.resources
 C:\Users\ti\Documents\Visual Studio 2005\Projects\Wenity\Wenity\obj\Debug\Wenity.FileSelectionDialog.resources
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.exe
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.xml
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.pdb
