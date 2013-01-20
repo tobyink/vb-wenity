@@ -27,3 +27,13 @@ C:\Users\ti\Documents\Visual Studio 2005\Projects\Wenity\Wenity\obj\Debug\Wenity
 C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.exe
 C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.xml
 C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.pdb
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\bin\Release\Wenity.exe
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\bin\Release\Wenity.pdb
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\bin\Release\Wenity.xml
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.ListDialog.resources
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.FileSelectionDialog.resources
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.PasswordDialog.resources
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.DummyForm.resources
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.Resources.resources
+C:\Users\ti\Documents\Visual Studio 2005\Projects\vb-wenity\Wenity\obj\Release\Wenity.vbproj.GenerateResource.Cache
