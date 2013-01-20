@@ -35,7 +35,9 @@ Module Main
         'Get command line arguments into a list.
         ParseArgs()
 
-        If Options.ContainsKey("info") Then
+        If Options.ContainsKey("test-command") Then
+            Console.WriteLine("ok")
+        ElseIf Options.ContainsKey("info") Then
             GoInfo(MsgBoxStyle.Information)
         ElseIf Options.ContainsKey("warning") Then
             GoInfo(MsgBoxStyle.Exclamation)
@@ -82,7 +84,7 @@ Module Main
             title = Options("title")(0)
         End If
 
-        Dim text As String = "All updates are complete."
+        Dim text As String = "Please enter text."
         If Options.ContainsKey("text") Then
             text = Options("text")(0)
         End If
