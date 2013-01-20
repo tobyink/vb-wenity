@@ -1,0 +1,54 @@
+SUMMARY
+=======
+
+Wenity is a Zenity-like tool for Windows. If you don't know what Zenity
+is, see <http://enwp.org/Zenity>. It only supports a subset of Zenity
+functionality.
+
+It runs on Windows and Wine, but requires the .NET Framework 2.0.
+
+OPTIONS
+=======
+
+	--info
+		--text
+		--title
+	
+	--warning
+		--text
+		--title
+	
+	--error
+		--text
+		--title
+	
+	--question (prints "Y" or "N" to STDOUT)
+		--text
+		--title
+	
+	--entry (outputs text to STDOUT)
+		--text
+		--entry-text
+		--hide-text
+		--title
+	
+	--file-selection (outputs path to STDOUT; if multiple, pipe delimited)
+		--text
+		--directory
+		--save
+		--multiple
+		--title
+	
+	--list (outputs indices to STDOUT)
+		--text
+		--multiple
+		--title
+
+Option parsing is kinda rubbish compared to Zenity. (VB.NET doesn't have
+GetOpt.)
+
+EXAMPLES
+========
+
+Wenity.exe --info --text "The sky is blue!"
+Wenity.exe --list --multiple --text "Choose pizza toppings..." -- Cheese Sauce Ham Pineapple Onion Pepperoni "Spicy Beef"
